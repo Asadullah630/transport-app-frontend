@@ -1,0 +1,19 @@
+.bookingdata{
+    background-color: rgb(96, 62, 134);
+    min-height: 100vh;
+    width: 100vw;
+}
+
+.heading{
+  
+    color: white;
+    text-align: center;
+}
+.bookingitem{
+     
+    display: flex;
+    flex-wrap: wrap;
+    gap:30px
+
+
+}
